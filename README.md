@@ -1,4 +1,4 @@
-[![MasterHead](https://warburtonadvisers.com/wp-content/uploads/2022/03/March-2-gif.gif)](https://rishavchanda.io)
+[![MasterHead]([https://warburtonadvisers.com/wp-content/uploads/2022/03/March-2-gif.gif](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif))](https://rishavchanda.io)
 
 <h1 align="center">Hi Wassssssaa 👋, I'm Iyanuoluwa</h1>
 <h3 align="center">A Software Engineer in Training at ALX</h3>
