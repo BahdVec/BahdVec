@@ -2,11 +2,10 @@
 
 <h1 align="left">Hi Wassssssaa 👋, I'm Iyanuoluwa</h1>
 <h3 align="left">A Software Engineer in Training at ALX</h3>
-<img align="left" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bahdvec&label=Profile%20views&color=0e75b6&style=flat" alt="bahdvec" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahdvec&label=Profile%20views&color=0e75b6&style=flat" alt="bahdvec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahdvec&theme=discord" alt="bahdvec" /></a> </p>
 - 🌱 I’m currently learning **C programming**
 
 - 💬 Ask me about **C programming**
@@ -14,6 +13,10 @@
 - 📫 How to reach me **alejolowoiyanu@gmail.com**
 
 - ⚡ Fun fact **I'm a Graphic Designer**
+
+<hr>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahdvec&theme=discord" alt="bahdvec" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <hr>
