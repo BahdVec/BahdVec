@@ -19,7 +19,6 @@
 <hr>
 <p align="left">
 <a href="https://twitter.com/bdvktr" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="bdvktr" /></a>
-<a href="https://twitter.com/bdvktr" target="blank"><img align="center" src="" alt="bdvktr" /></a>
 <a href="https://instagram.com/bahdvector" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bahdvector" /></a>
 <a href="https://www.behance.net/nerdy designs" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="nerdy designs" /></a>
 </p>
