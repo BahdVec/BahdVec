@@ -25,9 +25,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whit
+<img src="{[BadgeURLHere](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)}" />
+<img src="{[BadgeURLHere](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)}" />
+<img src="{[BadgeURLHere](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)}" />
 
 <h3 align="left">Github Stats</h3>
 <hr>
