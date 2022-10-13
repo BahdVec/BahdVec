@@ -34,5 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahdvec&show_icons=true&theme=radical" alt="bahdvec" /></p>
 
+![BahdVec wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
