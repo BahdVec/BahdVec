@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahdvec&show_icons=true&theme=radical" alt="bahdvec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahdvec&show_icons=true&theme=radical" alt="bahdvec" /></p>
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
