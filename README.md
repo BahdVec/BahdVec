@@ -1,5 +1,3 @@
-[![MasterHead](https://warburtonadvisers.com/wp-content/uploads/2022/03/March-2-gif/s1600/2000_600px.gif)](https://rishavchanda.io)
-
 <h1 align="left">Hi Wassssssaa 👋, I'm Iyanuoluwa</h1>
 <h3 align="left">A Software Engineer in Training at ALX</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
