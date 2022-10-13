@@ -18,9 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-<a href="https://twitter.com/bdvktr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdvktr" height="30" width="40" /></a>
-<a href="https://instagram.com/bahdvector" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bahdvector" height="30" width="40" /></a>
-<a href="https://www.behance.net/nerdy designs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nerdy designs" height="30" width="40" /></a>
+<a href="https://twitter.com/bdvktr" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="bdvktr" height="30" width="40" /></a>
+<a href="https://twitter.com/bdvktr" target="blank"><img align="center" src="" alt="bdvktr" height="30" width="40" /></a>
+<a href="https://instagram.com/bahdvector" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="bahdvector" height="30" width="40" /></a>
+<a href="https://www.behance.net/nerdy designs" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="nerdy designs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
