@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahdvec&show_icons=true&theme=radical" alt="bahdvec" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahdvec&show_icons=true&theme=radical" alt="bahdvec" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahdvec&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="bahdvec" /></p>
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=bahdvec&theme=xcode)
 
